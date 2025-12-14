@@ -31,7 +31,7 @@ Building robust, scalable systems with clean architecture and attention to detai
 
 ---
 
-📫 **Let's connect:** [LinkedIn]([https://linkedin.com/in/abnersilva](https://www.linkedin.com/in/abner-silva-barbosa-8a3542225/)) • [Portfolio](https://abneraijiner.com.br/)
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/abner-silva-barbosa-8a3542225/) • [Portfolio](https://abneraijiner.com.br/)
 
 
 ## Stats
