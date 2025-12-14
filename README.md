@@ -7,7 +7,9 @@
 ## 💼 Professional Experience
 
 - **BTG Pactual** — Developed fraud prevention systems for fintech infrastructure
+- **Inteli (Student job)** — Assisted in research, testing, and feature implementation for the university platform
 - **Atos** — Built enterprise SaaS solutions with microservices architecture
+- **Camelsec** — Developed cybersecurity compliance platform for healthcare organizations
 - **Current Focus** — Full-stack development of AI-powered platforms and multi-tenant systems
 
 ## 🚀 Technical Stack
