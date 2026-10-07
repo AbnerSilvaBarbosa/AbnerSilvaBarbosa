@@ -1,46 +1,40 @@
-<h1 align="center">Hi dear 👋, I'm Abner Silva Barbosa</h1>
+<div align="center">
 
-![GitHub Profile Views](https://gitviews.com/user/AbnerSilvaBarbosa.svg)
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-**Full-Stack Software Engineer** with **4+ years of experience** building scalable, production-ready web applications and enterprise systems.
+<h3><code>abner@github ~ $ ./contributions.sh</code></h3>
 
-## 💼 Professional Experience
+<img src="./contrib-heatmap.svg" width="860" alt="Abner's GitHub contribution graph — auto-refreshed daily" />
 
-- **BTG Pactual** — Developed fraud prevention systems for fintech infrastructure
-- **Inteli (Student job)** — Assisted in research, testing, and feature implementation for the university platform
-- **Atos** — Built enterprise SaaS solutions with microservices architecture
-- **Camelsec** — Developed cybersecurity compliance platform for healthcare organizations
-- **Current Focus** — Full-stack development of AI-powered platforms and multi-tenant systems
+<br>
+<br>
 
-## 🚀 Technical Stack
+<!-- ascii portrait (left) + streak/numbers card (right). both svgs are
+     840x880 so equal widths give equal heights.
+     portrait: python scripts/prep_photo.py source-photo.png && python scripts/make_ascii_svg.py
+     stats:    python scripts/render_stats_svg.py (same daily workflow) -->
 
-**Frontend:** React • Next.js • TypeScript • TanStack Router • Tailwind CSS • shadcn/ui • Frame-motion
+<h3><code>abner@github ~ $ whoami</code></h3>
 
-**Backend:** NestJS • Node.js • PostgreSQL • Drizzle ORM • RESTful APIs
+<table>
+<tr>
+<td valign="top"><img src="./abner-ascii.svg" width="420" alt="Abner Silva Barbosa — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Abner's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
+</table>
 
-**DevOps:** Docker • Railway • Cloudflare • Git • Linux (Arch/KDE Plasma)
+<br>
+<br>
 
-**AI & Tools:** OpenAI API • Claude Code • Multi-tenant architectures • Logto Authentication
+<h3><code>abner@github ~ $ ./links.sh</code></h3>
 
-## 🎓 Education
+<p><b>Full-Stack Software Engineer · AI Builder</b><br>
+React · Next.js · TypeScript · NestJS · PostgreSQL · AI-powered platforms</p>
 
-**Bachelor of Software Engineering** — Inteli - Instituto de Tecnologia e Liderança  
-*First cohort | Graduating 2025*
+[![Portfolio](https://img.shields.io/badge/Portfolio-abneraijiner.com.br-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://abneraijiner.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abner--silva--barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-silva-barbosa-8a3542225/)
 
-## 🌟 What I Do
+<br>
 
-Building robust, scalable systems with clean architecture and attention to detail. Passionate about solving complex technical challenges, creating AI-powered solutions, and writing maintainable code that stands the test of time.
-
----
-
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/abner-silva-barbosa-8a3542225/) • [Portfolio](https://abneraijiner.com.br/)
-
-
-## Stats
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abnersilvabarbosa&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abnersilvabarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-## Commits
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)       
-
- 
+</div>
