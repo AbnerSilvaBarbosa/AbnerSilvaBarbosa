@@ -1,13 +1,13 @@
 {
   "username": "AbnerSilvaBarbosa",
-  "generated_at": "2026-10-24T10:58:00Z",
+  "generated_at": "2026-10-25T11:25:37Z",
   "range": {
-    "start": "2025-10-19",
-    "end": "2026-10-24"
+    "start": "2025-10-26",
+    "end": "2026-10-25"
   },
-  "total_contributions": 9984,
-  "active_days": 212,
-  "avg_per_active_day": 47.1,
+  "total_contributions": 9964,
+  "active_days": 207,
+  "avg_per_active_day": 48.1,
   "current_streak": {
     "length": 41,
     "start": "2026-09-14",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 60
+      "total": 39
     },
     {
       "month": "2025-11",
@@ -73,45 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 3552
+      "total": 3553
     }
   ],
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 6,
-      "level": 1
-    },
-    {
-      "date": "2025-10-21",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-10-22",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "date": "2025-10-23",
-      "count": 8,
-      "level": 1
-    },
-    {
-      "date": "2025-10-24",
-      "count": 4,
-      "level": 1
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-26",
       "count": 1,
@@ -1929,8 +1894,13 @@
     },
     {
       "date": "2026-10-24",
-      "count": 22,
+      "count": 23,
       "level": 1
+    },
+    {
+      "date": "2026-10-25",
+      "count": 0,
+      "level": 0
     }
   ]
 }
